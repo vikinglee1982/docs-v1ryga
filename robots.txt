@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-nmu6yl.saturadar88.shop/sitemap.xml
